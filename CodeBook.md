@@ -1,5 +1,19 @@
+# Getting and cleaning data
+
+## Modifications
+The data from the UCI Machine Learning Repository was modified by:
+- Combining both test and training data into one data set
+- Removing all data except the means and standard deviations which were relevant for this assignment
+- Adding descriptive names to measurements and activity types
+- Using the means and standard deviations to create an average for each measurement for each combination of subjectID and activity
+
+
+## Identifiers
+The final data set contains the following measurements
 activityName The name for the activity the subject was undertaking during the observation (character)
 subjectID The identifier for the subject (integer)
+
+## Measurements
 average_tBodyAcc-mean-X The average of the value for the respective subject and activity (numeric)
 average_tBodyAcc-mean-Y The average of the value for the respective subject and activity (numeric)
 average_tBodyAcc-mean-Z The average of the value for the respective subject and activity (numeric)
