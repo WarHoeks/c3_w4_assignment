@@ -1,69 +1,68 @@
-
-activityName
-subjectID
-average_tBodyAcc-mean-X
-average_tBodyAcc-mean-Y
-average_tBodyAcc-mean-Z
-average_tGravityAcc-mean-X
-average_tGravityAcc-mean-Y
-average_tGravityAcc-mean-Z
-average_tBodyAccJerk-mean-X
-average_tBodyAccJerk-mean-Y
-average_tBodyAccJerk-mean-Z
-average_tBodyGyro-mean-X
-average_tBodyGyro-mean-Y
-average_tBodyGyro-mean-Z
-average_tBodyGyroJerk-mean-X
-average_tBodyGyroJerk-mean-Y
-average_tBodyGyroJerk-mean-Z
-average_tBodyAccMag-mean
-average_tGravityAccMag-mean
-average_tBodyAccJerkMag-mean
-average_tBodyGyroMag-mean
-average_tBodyGyroJerkMag-mean
-average_fBodyAcc-mean-X
-average_fBodyAcc-mean-Y
-average_fBodyAcc-mean-Z
-average_fBodyAccJerk-mean-X
-average_fBodyAccJerk-mean-Y
-average_fBodyAccJerk-mean-Z
-average_fBodyGyro-mean-X
-average_fBodyGyro-mean-Y
-average_fBodyGyro-mean-Z
-average_fBodyAccMag-mean
-average_fBodyBodyAccJerkMag-mean
-average_fBodyBodyGyroMag-mean
-average_fBodyBodyGyroJerkMag-mean
-average_tBodyAcc-std-X
-average_tBodyAcc-std-Y
-average_tBodyAcc-std-Z
-average_tGravityAcc-std-X
-average_tGravityAcc-std-Y
-average_tGravityAcc-std-Z
-average_tBodyAccJerk-std-X
-average_tBodyAccJerk-std-Y
-average_tBodyAccJerk-std-Z
-average_tBodyGyro-std-X
-average_tBodyGyro-std-Y
-average_tBodyGyro-std-Z
-average_tBodyGyroJerk-std-X
-average_tBodyGyroJerk-std-Y
-average_tBodyGyroJerk-std-Z
-average_tBodyAccMag-std
-average_tGravityAccMag-std
-average_tBodyAccJerkMag-std
-average_tBodyGyroMag-std
-average_tBodyGyroJerkMag-std
-average_fBodyAcc-std-X
-average_fBodyAcc-std-Y
-average_fBodyAcc-std-Z
-average_fBodyAccJerk-std-X
-average_fBodyAccJerk-std-Y
-average_fBodyAccJerk-std-Z
-average_fBodyGyro-std-X
-average_fBodyGyro-std-Y
-average_fBodyGyro-std-Z
-average_fBodyAccMag-std
-average_fBodyBodyAccJerkMag-std
-average_fBodyBodyGyroMag-std
-average_fBodyBodyGyroJerkMag-std
+activityName The name for the activity the subject was undertaking during the observation (character)
+subjectID The identifier for the subject (integer)
+average_tBodyAcc-mean-X The average of the value for the respective subject and activity (numeric)
+average_tBodyAcc-mean-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyAcc-mean-Z The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-mean-X The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-mean-Y The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-mean-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-mean-X The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-mean-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-mean-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-mean-X The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-mean-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-mean-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-mean-X The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-mean-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-mean-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyAccMag-mean The average of the value for the respective subject and activity (numeric)
+average_tGravityAccMag-mean The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerkMag-mean The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroMag-mean The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerkMag-mean The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-mean-X The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-mean-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-mean-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-mean-X The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-mean-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-mean-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-mean-X The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-mean-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-mean-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyAccMag-mean The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyAccJerkMag-mean The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyGyroMag-mean The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyGyroJerkMag-mean The average of the value for the respective subject and activity (numeric)
+average_tBodyAcc-std-X The average of the value for the respective subject and activity (numeric)
+average_tBodyAcc-std-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyAcc-std-Z The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-std-X The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-std-Y The average of the value for the respective subject and activity (numeric)
+average_tGravityAcc-std-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-std-X The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-std-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerk-std-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-std-X The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-std-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyGyro-std-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-std-X The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-std-Y The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerk-std-Z The average of the value for the respective subject and activity (numeric)
+average_tBodyAccMag-std The average of the value for the respective subject and activity (numeric)
+average_tGravityAccMag-std The average of the value for the respective subject and activity (numeric)
+average_tBodyAccJerkMag-std The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroMag-std The average of the value for the respective subject and activity (numeric)
+average_tBodyGyroJerkMag-std The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-std-X The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-std-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyAcc-std-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-std-X The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-std-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyAccJerk-std-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-std-X The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-std-Y The average of the value for the respective subject and activity (numeric)
+average_fBodyGyro-std-Z The average of the value for the respective subject and activity (numeric)
+average_fBodyAccMag-std The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyAccJerkMag-std The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyGyroMag-std The average of the value for the respective subject and activity (numeric)
+average_fBodyBodyGyroJerkMag-std The average of the value for the respective subject and activity (numeric)
