@@ -52,6 +52,6 @@ tidy_table <- dcast(melted, activityName + subjectID ~ variable, mean)
 names(tidy_table) <- gsub("^t", "average_t", names(tidy_table))
 names(tidy_table) <- gsub("^f", "average_f", names(tidy_table))
 
-write.table(tidy_table, file = "results/tidy_table.txt")
+write.table(tidy_table, file = "results/tidy_table.txt", row.names = FALSE)
 
 
